@@ -4,7 +4,6 @@
 Welcome to my **Python Important Problems Repository**   
 This repository contains a collection of **important Python programming problems** commonly asked in interviews, exams, and coding practice.
 
-
 ## 📌 About This Repository
 
 This repository is created to:
